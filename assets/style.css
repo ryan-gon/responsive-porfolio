@@ -1,0 +1,9 @@
+body {
+	background-color: rgb(206, 202, 203);
+	color: #000000;
+}
+
+h1 {
+	font-style: inherit;
+	font-family: sans-serif;
+}
